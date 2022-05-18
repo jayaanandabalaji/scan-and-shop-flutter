@@ -8,8 +8,7 @@ Advanced scan and shop app built on Flutter that uses machine learning models us
 
 Android Apk
 
-[![apk](https://www.yt3dl.net/images/apk-download-badge.png
-)](https://github.com/jayaanandabalaji/scan-and-shop-flutter/blob/main/apk/app-release.apk?raw=true)
+<a href="https://github.com/jayaanandabalaji/scan-and-shop-flutter/blob/main/apk/app-release.apk?raw=true"><img src="https://www.yt3dl.net/images/apk-download-badge.png" style="height:100px;"></a>
 
 
 ## 📸 Screenshots
