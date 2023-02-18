@@ -8,24 +8,24 @@ Advanced scan and shop app built on Flutter that uses machine learning models us
 
 Android Apk
 
-<a href="https://github.com/jayaanandabalaji/scan-and-shop-flutter/blob/main/apk/app-release.apk?raw=true"><img src="https://www.yt3dl.net/images/apk-download-badge.png" style="height:100px;"></a>
+<a href="https://mega.nz/file/d1xC3KZB#IZX6KWSR9HgvLFnB9PIos2CxLY_4kXpuhCxvASWbkRA"><img src="https://www.yt3dl.net/images/apk-download-badge.png" style="height:100px;"></a>
 
 
 ## 📸 Screenshots
 
-![scan and shop app flutter screenshot 1](https://raw.githubusercontent.com/jayaanandabalaji/scan-and-shop-flutter/main/images/1.png)
+![scan and shop app flutter screenshot 1](https://lh3.googleusercontent.com/pw/AMWts8Aj7PPFoWo-dKZxV4QK_sgZJ_VsS5h_PhxaU9qaVLz3L_AMP2cpYoAIuZvb3TjNWp704dJOxdB-PAyOcsQCz8XWJbkiPHLrOBs7pL9n0ElVJgldC2YUtbxa30J1FCP_qYZKDc84snqiRgeGwdRRS7o=w1154-h649-s-no?authuser=0)
 
 **Barcode detection**
 
-![scan and shop app flutter screenshot 2](https://raw.githubusercontent.com/jayaanandabalaji/scan-and-shop-flutter/main/images/2.png)
+![scan and shop app flutter screenshot 2](https://lh3.googleusercontent.com/pw/AMWts8BOoUavI-rJMXFfqHgxR3NNFpHKc4m5dnbzLtM35c9uK2jZpN3o_XKiYFU7zcieMsn_cxxex_u97VdZIC8ucAL2sgxAsVUQgQTMfCe0z4Hp9jikjqoroJa64weo_u-Toq6iHFD2fL0Iz_Bo0flTKlA=w1154-h649-s-no?authuser=0)
 
 **TensorFlow object detection**
 
-![scan and shop app flutter screenshot 3](https://raw.githubusercontent.com/jayaanandabalaji/scan-and-shop-flutter/main/images/3.png)
+![scan and shop app flutter screenshot 3](https://lh3.googleusercontent.com/pw/AMWts8BR0KJJyasbWB1aQqNgI9cuBnVnVPpFQqeDUkEZhXrRZRuuglaTb_UgoojCp9RTbxctfMKDxfMsmahVAKfJmwb3Con0syWjYenxTzWi_kwRy8rfXlzkf6X_HGdyAMAyM0yEzgylutrGm610NrXAMtA=w1154-h649-s-no?authuser=0)
 
 **Text detection**
 
-![scan and shop app flutter screenshot 4](https://raw.githubusercontent.com/jayaanandabalaji/scan-and-shop-flutter/main/images/4.png)
+![scan and shop app flutter screenshot 4](https://lh3.googleusercontent.com/pw/AMWts8Ag5Tbvgm9DVHRSU_-wfieP5RAhlSCZa4iiHjemVjtSWWSv5mblPlcyvqhr8yoPIPYgcHrsew0-Zw_jdE59MNll4RiPIskx6tf8LzW2hEzhOpPGOxHCVs0cNNrM-qYJkFcp_-T7vA1uitpHhOGlZEg=w1154-h649-s-no?authuser=0)
 
 **Other screens**
 
